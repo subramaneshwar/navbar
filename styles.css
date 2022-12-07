@@ -16,11 +16,15 @@ main div{
     text-align: center;
 }
 .one{
-    padding: 1em;
+    padding: 1.2em;
     background-color: #0d0620;
     color: white;
     font-weight: 800;
     font-size: 1.5em;
+}
+.one:hover{
+    cursor: pointer;
+    font-size: 1.6em;
 }
 .profile{
     background-color: #0d0620;
