@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    /* border: 10px solid black; */
+    display: flex;
+    height: 15vh;
+}
+main div{
+    /* border: 2px solid red; */
+    height: 80%;
+    width: 50%;
+    /* margin: 1em; */
+    text-align: center;
+}
+.one{
+    padding: 1em;
+    background-color: #0d0620;
+    color: white;
+    font-weight: 800;
+    font-size: 1.5em;
+}
+.profile{
+    background-color: #0d0620;
+    display: flex;
+    align-content: center;
+
+}
+img{
+    /* border: 2px solid black; */
+    padding-bottom: 30px;
+
+
+}
+
+
+
